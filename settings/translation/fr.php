@@ -9,7 +9,7 @@ function t($string)
             echo "Le site web est actuellement en maintenance...";
             break;
         case "How many NFT's would you create ?":
-            echo "Comber de NFTs voulez-vous créer ?";
+            echo "Combien de NFTs voulez-vous créer ?";
             break;
         case 'Generate':
             echo "Générer";
